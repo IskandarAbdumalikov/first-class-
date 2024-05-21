@@ -17,7 +17,7 @@
         color: red;
         background: white;
     }
-    h2{
+    .h2{
         margin: 0 auto;
         color: red;
     }
@@ -49,6 +49,7 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      align-items: flex-start;
       p {
         display: -webkit-box;
         line-clamp: 3;

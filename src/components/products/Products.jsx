@@ -87,7 +87,7 @@ export default class Products extends Component {
             See more
           </button>
         ) : (
-          <h2>Tanlangan categoriya bo`yicha hamma cardlar soni tugadi</h2>
+          <h2 className="h2">Tanlangan categoriya bo`yicha hamma cardlar soni tugadi</h2>
         )}
       </section>
     );
